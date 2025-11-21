@@ -25,8 +25,6 @@ Fully editable code, open for changes, extensions, or complete rewrites.
 
 Usage
 
-Set grid size and workspace dimensions.
-
 Add or move control points to form a curve.
 
 Switch between voxel or curve visualization modes.
